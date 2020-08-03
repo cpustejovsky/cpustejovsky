@@ -1,3 +1,5 @@
+<img align="right" src="https://github.com/cpustejovsky/cpustehjovsky/blob/master/cpustejovsky.png" alt="Illustration of C Pustejovsky designed by reverentgeek" width=320px height=300px />
+
 ## Howdy 👍 
 
 - 🔭 **I’m currently working at** DecisionIQ as a Front-End developer
