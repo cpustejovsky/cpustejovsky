@@ -1,13 +1,14 @@
-<img align="right" src="https://github.com/cpustejovsky/cpustejovsky/blob/master/cpustejovsky.jpg" alt="Illustration of C Pustejovsky designed by reverentgeek" width=320px height=300px />
+<img align="right" src="https://github.com/cpustejovsky/cpustejovsky/blob/master/ikigai.png" alt="Illustration of and Ikigai" width=320px height=300px />
 
 ## Howdy 👍 
 
-- 🔭 **I’m currently working at** DecisionIQ as a Front-End developer
-- 🌱 **I’m currently learning** TypeScript, Django, and PostgreSQL
-- 💬 **Ask me about** JavaScript, cryptocurrency, and anything you want.
-- 📫 **How to reach me:** [charles@cpustejovsky.com](mailto:charles@cpustejovsky.com)
-- ⚡ **Fun fact:** I'm full of fun facts and will tell you all of them at the drop of a hat.
+After years of searching, I realized [programming is my ikigai](https://dev.to/cpustejovsky/a-month-of-development-work-52gh) (learn more about ikigai [here](https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#3b81b4532ed4)). Since then I've been learning and growing as a developer. 
 
+- 🔭 **I’m currently working at** DecisionIQ as a Front-End developer
+- 🌱 **I’m currently learning** TypeScript, Django, PostgreSQL, and Go.
+- 💬 **Ask me about** JavaScript, cryptocurrency, classics, philosophy, or just about anything.
+- 📫 **How to reach me:** [charles@cpustejovsky.com](mailto:charles@cpustejovsky.com) (to ask about stuff mentioned above or for any other reason).
+- ⚡ **Fun fact:** The very first animal I held was a snake (is it any wonder I like Python?).
 <!--
 **cpustejovsky/cpustejovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
