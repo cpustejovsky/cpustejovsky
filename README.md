@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/cpustejovsky/cpustehjovsky/blob/master/cpustejovsky.png" alt="Illustration of C Pustejovsky designed by reverentgeek" width=320px height=300px />
+<img align="right" src="https://github.com/cpustejovsky/cpustejovsky/blob/master/cpustejovsky.jpg" alt="Illustration of C Pustejovsky designed by reverentgeek" width=320px height=300px />
 
 ## Howdy 👍 
 
