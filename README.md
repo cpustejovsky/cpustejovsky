@@ -3,11 +3,11 @@
 ## Howdy 👍 
 
 After years of searching, I realized [programming is my ikigai](https://dev.to/cpustejovsky/a-month-of-development-work-52gh) (learn more about ikigai [here](https://www.forbes.com/sites/chrismyers/2018/02/23/how-to-find-your-ikigai-and-transform-your-outlook-on-life-and-business/#3b81b4532ed4)). Since then I've been learning and growing as a developer. 
-- 🔭 **I’m currently working on** Rebuilding [Estuary](https://github.com/cpustejovsky/estuary)'s front-end in TypeScript, back-end in Golang.
+- 🔭 **I’m currently working on** Rebuilding [Estuary](https://github.com/cpustejovsky/estuary)'s front-end in TypeScript and back-end in Golang.
 - 🌱 **I’m currently learning** Golang.
 - 💬 **Ask me about** JavaScript, Golang, cryptocurrency, classics, philosophy, or just about anything.
 - 📫 **How to reach me:** [charles@cpustejovsky.com](mailto:charles@cpustejovsky.com) (to ask about stuff mentioned above or for any other reason).
-- ⚡ **Fun fact:** The very first animal I held was a snake (and somehow I'm not a Python developer).
+- ⚡ **Fun fact:** The very first animal I held was a snake.
 <!--
 **cpustejovsky/cpustejovsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
