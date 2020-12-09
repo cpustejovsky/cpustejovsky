@@ -2,11 +2,11 @@
 
 ## Howdy 👍 
 
-There are things you're good at and things that are good for you. Programming is both for me.
+Some things you're good at. Some things are good for you. For me, programming is both.
 
-That's why I love programming and why I am always seeking to provide more value with it.
+That's why I love programming and why I always seek to provide value with it.
 
-It's why I love Go, Test-Driven Development, and Agile/Scrum. I believe they are all tools that better help me provide value to my team and my company and help my company provide value to their users.
+It's why I love Go, Test-Driven Development, and Agile/Scrum. They are all tools that help me provide value to my team and help the software we write provide value to users.
 
 --
 - 🔭 **I’m currently working on** Rebuilding [Estuary](https://github.com/cpustejovsky/estuary)'s front-end in TypeScript and back-end in Golang.
