@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/cpustejovsky/gatsby-site/blob/master/src/images/cpustejovsky_gopher.png" alt="Illustration of and Ikigai" width=320px height=300px />
+<img align="right" src="https://github.com/cpustejovsky/cpustejovsky.github.io/blob/master/src/images/cpustejovsky_gopher.png" alt="Gopher Cpustejovsky" width=320px height=300px />
 
 ## Howdy 👍 
 
