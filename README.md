@@ -7,7 +7,7 @@ I'm a softweare developer who ispassionate about providing value with programmin
 My interests are distributed systems, Test-Driven Development, Kafka, and gRPC/protobuf
 
 --
-- 🔭 **I’m currently working on** seeing how Cockroach Labs can 
+- 🔭 **I’m currently working on** seeing how Cockroach Labs can use the latest protobuf features while maintaining the performance gogo/protobuf
 - 🌱 **I’m currently learning** Docker and Kubernetes
 - 💬 **Ask me about** Go, TDD, event sourcing, classics, philosophy, Fallout, Dungeons & Dragons, and Lord of the Rings.
 - 📫 **How to reach me:** [charles.pustejovsky@gmail.com](mailto:charles.pustejovsky@gmail.com) (to ask about stuff mentioned above or for any other reason).
