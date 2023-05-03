@@ -10,7 +10,7 @@ My technical interests are Test-Driven Development, SQL, Kafka, and gRPC/protobu
 My non-technical interests include history, philosophy, theology, TTRPGs, Lord of the Rings, and comics
 
 ------
-- 😄 Pronouns: he/him
+- 😄 **Pronouns**: he / him
 - 🔭 **I’m currently working on** seeing how Cockroach Labs can use the latest protobuf features while maintaining the performance gogo/protobuf
 - 🌱 **I’m currently learning** Docker and Kubernetes
 - 💬 **Ask me about** any of my interests
