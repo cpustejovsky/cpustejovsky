@@ -1,15 +1,19 @@
-<img align="right" src="https://github.com/cpustejovsky/cpustejovsky.github.io/blob/source/src/images/cpustejovsky_gopher.png" alt="Gopher Cpustejovsky" width=320px height=300px />
-
+<!-- <img align="right" src="https://github.com/cpustejovsky/cpustejovsky.github.io/blob/source/src/images/cpustejovsky_gopher.png" alt="Gopher Cpustejovsky" width=320px height=300px /> -->
 ## Howdy 👍 
 
-I'm a softweare developer who ispassionate about providing value with programming.
+I'm a Go developer.
 
-My interests are distributed systems, Test-Driven Development, Kafka, and gRPC/protobuf
+I love learning new things, collaborating with others, and building software that helps people and that is future-proofed.
 
---
+My technical interests are Test-Driven Development, SQL, Kafka, and gRPC/protobuf
+
+My non-technical interests include history, philosophy, theology, TTRPGs, Lord of the Rings, and comics
+
+------
+- 😄 Pronouns: he/him
 - 🔭 **I’m currently working on** seeing how Cockroach Labs can use the latest protobuf features while maintaining the performance gogo/protobuf
 - 🌱 **I’m currently learning** Docker and Kubernetes
-- 💬 **Ask me about** Go, TDD, event sourcing, classics, philosophy, Fallout, Dungeons & Dragons, and Lord of the Rings.
+- 💬 **Ask me about** any of my interests
 - 📫 **How to reach me:** [charles.pustejovsky@gmail.com](mailto:charles.pustejovsky@gmail.com) (to ask about stuff mentioned above or for any other reason).
 - ⚡ **Fun fact:** The very first animal I held was a snake.
 <!--
