@@ -1,13 +1,24 @@
 <!-- <img align="right" src="https://github.com/cpustejovsky/cpustejovsky.github.io/blob/source/src/images/cpustejovsky_gopher.png" alt="Gopher Cpustejovsky" width=320px height=300px /> -->
 ## Howdy!
 
-I'm a Go developer.
+I love learning new things and collaborating with others. 
 
-I love learning new things, collaborating with others, and building software that helps people and that is future-proofed.
+I love building software that is flexible and scalable, software that will last.
 
-My technical interests are Test-Driven Development, SQL, Kafka, and gRPC/protobuf
+My technical interests are:
+- Go
+- Test-Driven Development
+- SQL
+- Kafka
+- gRPC/protobuf
 
-My non-technical interests include history, philosophy, theology, TTRPGs, Lord of the Rings, and comics
+My non-technical interests include:
+- history
+- philosophy
+- theology
+- Dungeons & Dragons
+- Lord of the Rings
+- comics
 
 ------
 - 😄 **Pronouns**: he / him
