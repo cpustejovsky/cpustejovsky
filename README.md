@@ -3,7 +3,11 @@
 
 I love learning new things and collaborating with others. 
 
-I love building software that is flexible and scalable, software that will last.
+I love programming. 
+
+I love learning new things and collaborating with others. 
+
+I love building software that is robust, flexible, and scalable.
 
 My technical interests are:
 - Go
