@@ -1,8 +1,6 @@
 <!-- <img align="right" src="https://github.com/cpustejovsky/cpustejovsky.github.io/blob/source/src/images/cpustejovsky_gopher.png" alt="Gopher Cpustejovsky" width=320px height=300px /> -->
 ## Howdy!
 
-I love learning new things and collaborating with others. 
-
 I love programming. 
 
 I love learning new things and collaborating with others. 
