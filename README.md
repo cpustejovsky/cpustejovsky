@@ -11,21 +11,18 @@ My technical interests are:
 - Go
 - Test-Driven Development
 - SQL
-- Kafka
-- gRPC/protobuf
 
 My non-technical interests include:
 - history
-- philosophy
-- theology
+- theology/philosophy/spirituality
 - Dungeons & Dragons
 - Lord of the Rings
-- comics
+- One Piece
 
 ------
 - 😄 **Pronouns**: he / him
-<!-- - 🔭 **I’m currently working on** seeing how Cockroach Labs can use the latest protobuf features while maintaining the performance gogo/protobuf -->
-- 🌱 **I’m currently learning** Docker and Kubernetes
+- 🔭 **I’m currently working on** An API using PL/pgSQL
+- 🌱 **I’m currently learning** DS/Algos and PL/pgSQL
 - 💬 **Ask me about** any of my interests
 - 📫 **How to reach me:** [charles@cpustejovsky.com](mailto:charles@cpustejovsky.com)
 - ⚡ **Fun fact:** The very first animal I held was a snake.
