@@ -18,7 +18,7 @@ My non-technical interests include:
 - Lord of the Rings
 - One Piece
 
-For more information about me and how to work with me, check my [about section](./about.md)
+For more information about me and how to work with me, check my [about section](./about.md).
 
 ------
 - 😄 **Pronouns**: he / him
