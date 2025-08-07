@@ -5,10 +5,11 @@ This README is for anyone to better understand how to interact with me.
 ## Getting Started (Communication)
 **tl;dr assume ignorance, not maliciousness.**
 ### General
-If I say something offensive or rude to you, let me know. Assume it is a mistake, because it so often is. Social nuances have been hard for me so I've often missed crucial details.
+If I say something offensive or rude to you, let me know. Try to assume I was speaking sincerely and not passive aggressive. Social nuances have been hard for me so I've often missed crucial details.
 
 ### Asking Questions
 Expect honest and direct answers. If I upset you, please tell me why. I will keep it in mind and improve in the future.
+
 ### Answering Questions
 I view every question I ask as a favor. It is some level of emotional labor.
 
@@ -21,6 +22,9 @@ If I veer into my special interests, please let me know if you:
 * do not understand what I'm talking about.
 
 I understand the world via my special interests so will often try to explain things using them. But if the references aren't working then I'm not explaining myself well. If that's the case, I should change how I communicate.
+
+### Facial Expressions
+I often look angry when I am focused on what someone else is saying and interested in the conversation. 
 
 ## Contributing
 I am working on both this README and myself and welcome feedback.
