@@ -11,6 +11,8 @@ If I say something offensive or rude to you, let me know. Try to assume I was sp
 Expect honest and direct answers. If I upset you, please tell me why. I will keep it in mind and improve in the future.
 
 ### Answering Questions
+I am an asker, not a guesser (see this [blog post](https://www.upworthy.com/askers-vs-guessers/)).
+
 I view every question I ask as a favor. It is some level of emotional labor.
 
 If I asked you to review some code for me or help me move, I expect "no"s and "not right now"s.
